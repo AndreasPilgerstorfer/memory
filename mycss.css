@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    font-family: sans-serif;
+}
+
+#memoryField {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+
+.karte{
+    height:79px;
+    width: 79px;
+    background-color: #0099DD;
+    border: 1px solid black;
+    position: relative;
+}
+
+.back{
+    background-color: darkseagreen;
+}
+
+
